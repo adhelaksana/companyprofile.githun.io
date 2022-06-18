@@ -1,0 +1,15 @@
+
+
+.jumbotron .display-4{
+	margin-top: 200px;
+	font-size: 40px;
+	color: white;
+}
+
+.jumbotron .lead{
+	color: white;
+}
+hr{
+	width: 160px;
+	border-top: 3px solid;
+}
